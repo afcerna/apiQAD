@@ -1,0 +1,8 @@
+:schedule:
+  generator_worker:
+    every: '200s'
+    class: GeneratorWorker
+
+  pt_mstr_worker:
+    every: '10s'
+    class: PtMstrWorker
