@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item_code: MyString
+  name: MyString
+  weight: MyString
+  um_w: MyString
+  price: MyString
+  cost: MyString
+  prod_type: MyString
+  material: MyString
+  route: MyString
+  client_sku: MyString
+  currency: MyString
+
+two:
+  item_code: MyString
+  name: MyString
+  weight: MyString
+  um_w: MyString
+  price: MyString
+  cost: MyString
+  prod_type: MyString
+  material: MyString
+  route: MyString
+  client_sku: MyString
+  currency: MyString
